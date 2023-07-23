@@ -11,4 +11,4 @@ The accuracy is 65%. The learning rate is 0.1 with 1000 iterations. The hypothes
 The value of k is 6, that is 6 nearest neighbours have been used for determining labels of the test data points. The accuracy obtained is 0.8366781539293195. or about 83%. 
 5. K means map:
 The accuarcy of K means map is about 25%. 
-6. Neural Network: We have 2 neural networks, one with no hidden layer and another with one hidden layer. 
+ 
